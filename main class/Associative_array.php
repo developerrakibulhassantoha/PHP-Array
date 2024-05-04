@@ -9,7 +9,7 @@ $person= array(
 
 );
 // Accessing Values
-// echo $person['Age'];
+echo $person['Age'];
 
 //Looping Through an Associative Array
 foreach($person as $key=>$value){
