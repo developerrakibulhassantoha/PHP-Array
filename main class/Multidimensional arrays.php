@@ -1,6 +1,6 @@
 <?php
 //Declaring a Multidimensional Array
-/*
+
 $array = [
     ['Rakib', 'Hassan', 'Babo'],
     ['Age', 23, 'city'],
@@ -39,7 +39,7 @@ foreach($array as $child){
         echo "$key: $value<br>";
     }
 }
-*/
+
 $persons=array(
     "rakib"=>array(
         "age"=>23,

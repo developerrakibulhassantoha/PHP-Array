@@ -1,5 +1,5 @@
 <?php
-// how to create index array
+// You can create an indexed array using the array() function or the short array syntax [].
 $array1 = array("apple", "banana", "cherry");
 $array2 = ["apple", "banana", "orange"];
 
